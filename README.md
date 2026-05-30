@@ -1,3 +1,4 @@
+<img width="960" height="1280" alt="photo jpg" src="https://github.com/user-attachments/assets/1655f133-8d02-4201-ae61-662d41023944" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff90,50:7c3aed,100:00d4ff&height=300&section=header&text=Ayush%20Kausik&fontSize=85&fontAlignY=38&fontColor=ffffff&desc=Builder%20%7C%20AI%20Engineer%20%7C%20Tier-3%20→%20Top%201%25&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
