@@ -1,3 +1,4 @@
+<img width="960" height="1280" alt="photo jpg" src="https://github.com/user-attachments/assets/1655f133-8d02-4201-ae61-662d41023944" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff90,50:7c3aed,100:00d4ff&height=300&section=header&text=Ayush%20Kausik&fontSize=85&fontAlignY=38&fontColor=ffffff&desc=Builder%20%7C%20AI%20Engineer%20%7C%20Tier-3%20→%20Top%201%25&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
@@ -5,10 +6,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/1655f133-8d02-4201-ae61-662d41023944" width="130" style="border-radius:50%;" />
-
-<br/><br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -34,13 +31,11 @@
 
 Not a traditional engineer. No IIT tag. No shortcuts. No safety net.
 
-I'm a full-time student who teaches Maths, Physics & Science to Class 9–12 to fund my own expenses — and spends every remaining hour building AI systems, reading docs, and solving problems that actually matter.
+I'm a full-time student who teaches Maths, Physics & Science to Class 9–12 students to fund my own expenses — and spends every remaining hour building AI systems, reading docs, and solving problems that actually matter.
 
-I've studied documentation from **Google, Microsoft, Oracle, Meta, and Terraform** — not because someone told me to, but because I *needed* to know.
+I've studied documentation from **Google, Microsoft, Oracle, Meta, and Terraform** — not because someone told me to, but because I needed to know.
 
 I've rebuilt projects from zero — multiple times. I once ran **72 hours non-stop** because the problem refused to let me sleep. 12-hour deep work sessions are just a regular Tuesday.
-
-Founder of **[Adumate](http://adumate.in)** · Creator of **CODEX**
 
 My inspiration? **Elon Musk.**
 My goal? **Top 1%.**
@@ -57,7 +52,6 @@ city    : Delhi, India
 degree  : B.Sc. Mathematics (Hons.)
 status  : Student + Builder
 role    : Teacher → Engineer → Founder
-website : adumate.in
 streak  : Never broken
 reads   : Google · Microsoft · Oracle
           Meta · Terraform docs
@@ -93,8 +87,7 @@ mission : Top 1%
                Joined Kaggle. Joined Datathons. Studying AI Research papers.
                Learning: Full-Stack · AI/LLM · Data Science · Cybersecurity
                  ↓
-[2026]    ──► NewsInSec LIVE. EUREKA LIVE. Adumate → adumate.in
-               3D Holograph Study Center shipped. HR Academy built.
+[2026]    ──► NewsInSec LIVE. EUREKA LIVE. Adumate growing.
                Still a student. Still building at 2am. Still here.
                  ↓
 [????]    ──► TOP 1% ........................... [IN PROGRESS ████████░░]
@@ -108,7 +101,7 @@ mission : Top 1%
 
 | 💀 **Resilience** | 🔬 **Research** | ⚡ **Execution** | 🏆 **Competition** |
 |:---:|:---:|:---:|:---:|
-| Failed projects rebuilt from zero — multiple times | Reads actual docs: Google, Microsoft, Oracle, Meta, Terraform | 72-hour sprints. 12-hour deep work. Ships anyway. | IIT Delhi Hackathons · Kaggle · Datathons |
+| Failed projects rebuilt from zero — multiple times | Reads actual docs. Google, Microsoft, Oracle, Meta, Terraform | 72-hour sprints. 12-hour deep work. Ships anyway. | IIT Delhi Hackathons · Kaggle · Datathons |
 
 </div>
 
@@ -134,7 +127,7 @@ mission : Top 1%
 
 ---
 
-## 🚀 Projects
+## 🚀 Pinned Repositories
 
 <div align="center">
 <table>
@@ -152,28 +145,17 @@ Core intelligence system for automated data analysis, pattern discovery, and res
 </td>
 <td align="center" width="50%">
 
-### 🎓 [HR Academy](https://github.com/Minato95-ayu/hr-academy)
-**Full-Stack EdTech Platform**
+### 📰 [news-in-sec](https://github.com/Minato95-ayu/news-in-sec)
+**Autonomous Viral Content System**
 
-Built for real students. TypeScript-powered academy platform with modern UI — the school that started it all.
+2-step Gemini pipeline + live web grounding. Zero employees. Infinite content.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa)
-![EdTech](https://img.shields.io/badge/-EdTech-0d1117?style=flat-square&logoColor=10b981)
+![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-
-### 🌐 [3D Holograph Study Center](https://github.com/Minato95-ayu/3d-holograph-study-center)
-**Immersive 3D Learning Experience**
-
-Where education meets the future. 3D holographic study environment built in TypeScript.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa)
-![3D](https://img.shields.io/badge/-3D_Web-0d1117?style=flat-square&logoColor=00d4ff)
-
-</td>
 <td align="center" width="50%">
 
 ### 🚀 [Topptic](https://github.com/Minato95-ayu/Topptic)
@@ -183,6 +165,17 @@ Production-grade web architecture. Premium glassmorphic UI. Built to scale.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa)
 ![Full-Stack](https://img.shields.io/badge/-Full--Stack-0d1117?style=flat-square&logoColor=00d4ff)
+
+</td>
+<td align="center" width="50%">
+
+### 📊 [tribev2-main](https://github.com/Minato95-ayu/tribev2-main)
+**ML & Data Analysis Hub**
+
+Notebooks, feature engineering, model experimentation. Where raw data becomes real insight.
+
+![Jupyter](https://img.shields.io/badge/-Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f59e0b)
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=fbbf24)
 
 </td>
 </tr>
@@ -200,13 +193,13 @@ Automated scraping, AI ranking, smart recommendations. Job hunting on autopilot.
 </td>
 <td align="center" width="50%">
 
-### 📊 [tribev2-main](https://github.com/Minato95-ayu/tribev2-main)
-**ML & Data Analysis Hub**
+### 🎓 [school](https://github.com/Minato95-ayu/school)
+**Flutter Educational Platform**
 
-Notebooks, feature engineering, model experimentation. Where raw data becomes real insight.
+Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 
-![Jupyter](https://img.shields.io/badge/-Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f59e0b)
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=fbbf24)
+![Dart](https://img.shields.io/badge/-Dart-0d1117?style=flat-square&logo=dart&logoColor=10b981)
+![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=flat-square&logo=flutter&logoColor=38bdf8)
 
 </td>
 </tr>
@@ -254,7 +247,7 @@ Notebooks, feature engineering, model experimentation. Where raw data becomes re
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Minato95-ayu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff90&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Minato95-ayu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff90&ring=7c3aed&fire=00d4ff&currStreakLabel=00ff90&sideLabels=c9d1d9&dates=6b7280" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minato95-ayu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff90&ring=7c3aed&fire=00d4ff&currStreakLabel=00ff90&sideLabels=c9d1d9&dates=6b7280" width="49%" />
 </div>
 
 <div align="center">
@@ -304,8 +297,7 @@ Notebooks, feature engineering, model experimentation. Where raw data becomes re
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-adumate.in-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00ff90)](http://adumate.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Minato95--ayu-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Minato95-ayu)
+[![GitHub](https://img.shields.io/badge/GitHub-Minato95--ayu-0d1117?style=for-the-badge&logo=github&logoColor=00ff90)](https://github.com/Minato95-ayu)
 [![Twitter](https://img.shields.io/badge/Twitter-@your__handle-0d1117?style=for-the-badge&logo=twitter&logoColor=00d4ff)](https://twitter.com/your_handle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/your_handle)
 
