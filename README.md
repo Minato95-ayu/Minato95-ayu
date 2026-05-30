@@ -1,35 +1,120 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff90,50:7c3aed,100:00d4ff&height=280&section=header&text=Ayush%20Kausik&fontSize=85&fontAlignY=38&fontColor=ffffff&desc=AI%20Automation%20%7C%20Full-Stack%20Engineer%20%7C%20Agentic%20Systems&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff90,50:7c3aed,100:00d4ff&height=300&section=header&text=Ayush%20Kausik&fontSize=85&fontAlignY=38&fontColor=ffffff&desc=Builder%20%7C%20AI%20Engineer%20%7C%20Tier-3%20→%20Top%201%25&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
 ```
-> "I build autonomous systems that replace manual labor with artificial intelligence."
+╔══════════════════════════════════════════════════════════════════╗
+║  > I never stopped. Not after the failures. Not after 72 hrs.   ║
+║    Not when no one believed it. Not today. Not ever.  [RUNNING] ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=00ff90)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=00d4ff)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=a78bfa)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=fbbf24)](https://python.org/)
-[![Gemini](https://img.shields.io/badge/Gemini_2.5-0d1117?style=for-the-badge&logo=google&logoColor=00ff90)](https://ai.google.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)](https://tailwindcss.com/)
+![Profile Views](https://komarev.com/ghpvc/?username=Minato95-ayu&color=00ff90&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/Minato95-ayu?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Minato95-ayu)
 
 </div>
 
 ---
 
-## ⚡ Currently Building
+## 👤 The Person Behind The Code
+
+<table>
+<tr>
+<td width="58%">
+
+**20. Delhi. B.Sc. Mathematics Honours.**
+
+Not a traditional engineer. No IIT tag. No shortcuts. No safety net.
+
+I'm a full-time student who teaches Maths, Physics & Science to Class 9–12 students to fund my own expenses — and spends every remaining hour building AI systems, reading docs, and solving problems that actually matter.
+
+I've studied documentation from **Google, Microsoft, Oracle, Meta, and Terraform** — not because someone told me to, but because I needed to know.
+
+I've rebuilt projects from zero — multiple times. I once ran **72 hours non-stop** because the problem refused to let me sleep. 12-hour deep work sessions are just a regular Tuesday.
+
+My inspiration? **Elon Musk.**
+My goal? **Top 1%.**
+
+Not today. But **one day** — and every commit is one step closer.
+
+</td>
+<td width="42%" align="center">
+
+```yaml
+name    : Ayush Kausik
+age     : 20
+city    : Delhi, India
+degree  : B.Sc. Mathematics (Hons.)
+status  : Student + Builder
+role    : Teacher → Engineer → Founder
+streak  : Never broken
+reads   : Google · Microsoft · Oracle
+          Meta · Terraform docs
+inspo   : Elon Musk
+mission : Top 1%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 The Journey — Raw & Unfiltered
+
+> *"Started with zero. No connections. No shortcuts. Just obsession and time."*
+
+```
+[2022─23] ──► B.Sc. Maths Honours begins.
+               Teaching Class 9–12 to pay my own way.
+               Curiosity about tech turns into something serious.
+                 ↓
+[2023]    ──► First projects. First failures.
+               Rebuilt from scratch. Failed again. Rebuilt again.
+               Learned more from 10 failures than from 100 tutorials.
+                 ↓
+[2024]    ──► Read Google, Microsoft, Oracle, Meta, Terraform docs — all of it.
+               72-hour non-stop coding sprint. Project shipped.
+               Google for Startups: Prompt to Prototype — COMPLETED ✓
+               150-day Full-Stack AI + Zero-Trust Security roadmap — GRINDING
+                 ↓
+[2025]    ──► IIT Delhi Hackathon prep begins.
+               Joined Kaggle. Joined Datathons. Studying AI Research papers.
+               Learning: Full-Stack · AI/LLM · Data Science · Cybersecurity
+                 ↓
+[2026]    ──► NewsInSec LIVE. EUREKA LIVE. Adumate growing.
+               Still a student. Still building at 2am. Still here.
+                 ↓
+[????]    ──► TOP 1% ........................... [IN PROGRESS ████████░░]
+```
+
+---
+
+## ⚡ What Makes Me Different
+
+<div align="center">
+
+| 💀 **Resilience** | 🔬 **Research** | ⚡ **Execution** | 🏆 **Competition** |
+|:---:|:---:|:---:|:---:|
+| Failed projects rebuilt from zero — multiple times | Reads actual docs. Google, Microsoft, Oracle, Meta, Terraform | 72-hour sprints. 12-hour deep work. Ships anyway. | IIT Delhi Hackathons · Kaggle · Datathons |
+
+</div>
+
+---
+
+## 🏗️ Currently Building
 
 <table>
   <tr>
     <td width="65%">
-      <h3>📰 NewsInSec — Viral Auto-Blogging Engine</h3>
-      <p>Fully autonomous AI news system that fetches live facts via <strong>Google Search Grounding</strong> and generates suspenseful, engaging articles using a custom <strong>2-Step LLM pipeline</strong> that bypasses standard formatting constraints.</p>
-      <p><code>Next.js 15</code> &nbsp; <code>Gemini 2.5 Flash</code> &nbsp; <code>TailwindCSS</code> &nbsp; <code>TypeScript</code></p>
-      <p>⚡ Zero manual input → fully autonomous content at scale</p>
+      <h3>📰 NewsInSec — Autonomous Viral Blogging Engine</h3>
+      <p>Fully autonomous AI news system. Live Google Search Grounding + custom <strong>2-Step Gemini pipeline</strong> that generates high-engagement articles — zero manual input, infinite scale.</p>
+      <p><code>Next.js 15</code> &nbsp;·&nbsp; <code>Gemini 2.5 Flash</code> &nbsp;·&nbsp; <code>TailwindCSS</code> &nbsp;·&nbsp; <code>TypeScript</code></p>
+      <p>⚡ Zero employees. Fully autonomous content at scale.</p>
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/Minato95-ayu/news-in-sec">
@@ -86,7 +171,7 @@ Production-grade web architecture. Premium glassmorphic UI. Built to scale.
 ### 📊 [tribev2-main](https://github.com/Minato95-ayu/tribev2-main)
 **ML & Data Analysis Hub**
 
-Notebooks, feature engineering, model experimentation. Where raw data becomes insight.
+Notebooks, feature engineering, model experimentation. Where raw data becomes real insight.
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f59e0b)
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=fbbf24)
@@ -99,7 +184,7 @@ Notebooks, feature engineering, model experimentation. Where raw data becomes in
 ### 🔍 [job-finder](https://github.com/Minato95-ayu/job-finder)
 **AI-Powered Job Aggregator**
 
-Automated scraping, AI ranking, and smart recommendations. Job hunting on autopilot.
+Automated scraping, AI ranking, smart recommendations. Job hunting on autopilot.
 
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=fbbf24)
 ![Automation](https://img.shields.io/badge/-Automation-0d1117?style=flat-square&logoColor=00ff90)
@@ -122,15 +207,38 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 
 ---
 
-## 🏆 What I Do
+## 🧠 What I'm Mastering
 
-| Domain | What I Build |
+| Domain | Details |
 | :--- | :--- |
-| 🤖 **Agentic AI Systems** | Multi-agent pipelines, zero-employee automation, live web grounding with LLMs |
-| 🌐 **Full-Stack Engineering** | Next.js App Router, React 19, serverless backends, scalable architectures |
-| 📊 **Data & ML** | Jupyter-based research, feature engineering, Python ML pipelines |
-| 🎨 **UI/UX Design** | Glassmorphic, cyberpunk, and premium interfaces with Framer Motion + TailwindCSS |
-| 📱 **Mobile Development** | Flutter apps with clean Dart architecture, production-ready |
+| 🤖 **AI / LLM Engineering** | Agentic pipelines, multi-model orchestration, live grounding, prompt engineering |
+| 🌐 **Full-Stack Engineering** | Next.js 15, React 19, TypeScript, Firebase, Vercel, Render, Google Cloud Run |
+| 📊 **Data Science & ML** | Python, Jupyter, Kaggle competitions, feature engineering, model building |
+| 🔐 **Cybersecurity & Zero-Trust** | AI Security, Zero-Trust architecture, security research |
+| 🔬 **AI Research** | Reading papers, studying SOTA models, implementing from scratch |
+| 📱 **Mobile Development** | Flutter, Dart, production-ready cross-platform apps |
+
+---
+
+## 🧪 Current Battles
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🏟  IIT Delhi Hackathon Prep       ████████░░   80%
+  📊  Kaggle / Datathons             ██████░░░░   60%
+  🔐  Zero-Trust Security Roadmap    ███████░░░   70%
+  🤖  AI / LLM Engineering           █████████░   90%
+  📐  150-Day Full-Stack Roadmap     ████████░░   78%
+  🔬  AI Research Papers             ██████░░░░   65%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  DOCS DEVOURED:
+  ✓ Google   ✓ Microsoft   ✓ Oracle   ✓ Meta   ✓ Terraform
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
 
 ---
 
@@ -152,18 +260,33 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🔴  AI AGENT [ CLASSIFIED ]              │
-│                                             │
-│   Status  ████████░░  80%                  │
-│   Stack   AI Agents · Research · LLMs      │
-│   ETA     Soon™                            │
-│                                             │
-│   "Building what doesn't exist yet."       │
-│                                             │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   🔴  AI AGENT  [ CLASSIFIED ]                      │
+│                                                      │
+│   Status   ████████░░  80%                          │
+│   Stack    AI Agents · Research · LLMs              │
+│   ETA      Soon™                                    │
+│                                                      │
+│   "Building what doesn't exist yet."                │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+---
+
+## 💬 The Words I Live By
+
+<div align="center">
+
+> *"I've failed more times than most people have tried.*
+> *Every rebuild made it stronger. Every failure made me sharper.*
+> *I'm a student, but I build like a founder.*
+> *I don't wait for the perfect moment — I need 72 more hours and a problem worth solving."*
+
+**— Ayush Kausik, still building**
 
 </div>
 
@@ -176,6 +299,17 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 [![GitHub](https://img.shields.io/badge/GitHub-Minato95--ayu-0d1117?style=for-the-badge&logo=github&logoColor=00ff90)](https://github.com/Minato95-ayu)
 [![Twitter](https://img.shields.io/badge/Twitter-@your__handle-0d1117?style=for-the-badge&logo=twitter&logoColor=00d4ff)](https://twitter.com/your_handle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/your_handle)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+Still a student. Still building. Still here.
+Top 1% is not a dream. It's a scheduled delivery.
+```
 
 </div>
 
