@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff90,50:7c3aed,100:00d4ff&height=300&section=header&text=Ayush%20Kausik&fontSize=85&fontAlignY=38&fontColor=ffffff&desc=Builder%20%7C%20AI%20Engineer%20%7C%20Tier-3%20→%20Top%201%25&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a000,50:ff6b00,100:cc2200&height=300&section=header&text=Ayush%20Kausik&fontSize=85&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Tier-3%20→%20Top%201%25&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -13,8 +13,8 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Minato95-ayu&color=00ff90&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/Minato95-ayu?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Minato95-ayu)
+![Profile Views](https://komarev.com/ghpvc/?username=Minato95-ayu&color=e8a000&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/Minato95-ayu?style=for-the-badge&color=ff6b00&labelColor=0d0800&label=FOLLOWERS)](https://github.com/Minato95-ayu)
 
 </div>
 
@@ -64,6 +64,18 @@ mission : Top 1%
 
 ---
 
+## ⚡ What Makes Me Different
+
+<div align="center">
+
+| 💀 **Resilience** | 🔬 **Research** | ⚡ **Execution** | 🏆 **Competition** |
+|:---:|:---:|:---:|:---:|
+| Failed projects rebuilt from zero — multiple times | Reads actual docs. Google, Microsoft, Oracle, Meta, Terraform | 72-hour sprints. 12-hour deep work. Ships anyway. | IIT Delhi Hackathons · Kaggle · Datathons |
+
+</div>
+
+---
+
 ## 🔥 The Journey — Raw & Unfiltered
 
 > *"Started with zero. No connections. No shortcuts. Just obsession and time."*
@@ -94,18 +106,6 @@ mission : Top 1%
 
 ---
 
-## ⚡ What Makes Me Different
-
-<div align="center">
-
-| 💀 **Resilience** | 🔬 **Research** | ⚡ **Execution** | 🏆 **Competition** |
-|:---:|:---:|:---:|:---:|
-| Failed projects rebuilt from zero — multiple times | Reads actual docs. Google, Microsoft, Oracle, Meta, Terraform | 72-hour sprints. 12-hour deep work. Ships anyway. | IIT Delhi Hackathons · Kaggle · Datathons |
-
-</div>
-
----
-
 ## 🏗️ Currently Building
 
 <table>
@@ -118,7 +118,7 @@ mission : Top 1%
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/Minato95-ayu/news-in-sec">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minato95-ayu&repo=news-in-sec&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff90&icon_color=a78bfa&text_color=c9d1d9" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minato95-ayu&repo=news-in-sec&theme=tokyonight&hide_border=true&bg_color=0d0800&title_color=e8a000&icon_color=ff6b00&text_color=c9b090" />
       </a>
     </td>
   </tr>
@@ -138,8 +138,8 @@ mission : Top 1%
 
 Core intelligence system for automated data analysis, pattern discovery, and research automation at scale.
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=fbbf24)
-![AI](https://img.shields.io/badge/-AI_Core-0d1117?style=flat-square&logoColor=00ff90)
+![Python](https://img.shields.io/badge/-Python-0d0800?style=flat-square&logo=python&logoColor=e8a000)
+![AI](https://img.shields.io/badge/-AI_Core-0d0800?style=flat-square&logoColor=ff6b00)
 
 </td>
 <td align="center" width="50%">
@@ -149,8 +149,8 @@ Core intelligence system for automated data analysis, pattern discovery, and res
 
 2-step Gemini pipeline + live web grounding. Zero employees. Infinite content.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa)
-![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d0800?style=flat-square&logo=typescript&logoColor=ff6b00)
+![Next.js](https://img.shields.io/badge/-Next.js-0d0800?style=flat-square&logo=next.js&logoColor=white)
 
 </td>
 </tr>
@@ -162,8 +162,8 @@ Core intelligence system for automated data analysis, pattern discovery, and res
 
 Production-grade web architecture. Premium glassmorphic UI. Built to scale.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa)
-![Full-Stack](https://img.shields.io/badge/-Full--Stack-0d1117?style=flat-square&logoColor=00d4ff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d0800?style=flat-square&logo=typescript&logoColor=ff6b00)
+![Full-Stack](https://img.shields.io/badge/-Full--Stack-0d0800?style=flat-square&logoColor=e8a000)
 
 </td>
 <td align="center" width="50%">
@@ -173,8 +173,8 @@ Production-grade web architecture. Premium glassmorphic UI. Built to scale.
 
 Notebooks, feature engineering, model experimentation. Where raw data becomes real insight.
 
-![Jupyter](https://img.shields.io/badge/-Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f59e0b)
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=fbbf24)
+![Jupyter](https://img.shields.io/badge/-Jupyter-0d0800?style=flat-square&logo=jupyter&logoColor=e8a000)
+![Python](https://img.shields.io/badge/-Python-0d0800?style=flat-square&logo=python&logoColor=ff6b00)
 
 </td>
 </tr>
@@ -186,8 +186,8 @@ Notebooks, feature engineering, model experimentation. Where raw data becomes re
 
 Automated scraping, AI ranking, smart recommendations. Job hunting on autopilot.
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=fbbf24)
-![Automation](https://img.shields.io/badge/-Automation-0d1117?style=flat-square&logoColor=00ff90)
+![Python](https://img.shields.io/badge/-Python-0d0800?style=flat-square&logo=python&logoColor=e8a000)
+![Automation](https://img.shields.io/badge/-Automation-0d0800?style=flat-square&logoColor=ff6b00)
 
 </td>
 <td align="center" width="50%">
@@ -197,8 +197,8 @@ Automated scraping, AI ranking, smart recommendations. Job hunting on autopilot.
 
 Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 
-![Dart](https://img.shields.io/badge/-Dart-0d1117?style=flat-square&logo=dart&logoColor=10b981)
-![Flutter](https://img.shields.io/badge/-Flutter-0d1117?style=flat-square&logo=flutter&logoColor=38bdf8)
+![Dart](https://img.shields.io/badge/-Dart-0d0800?style=flat-square&logo=dart&logoColor=e8a000)
+![Flutter](https://img.shields.io/badge/-Flutter-0d0800?style=flat-square&logo=flutter&logoColor=ff6b00)
 
 </td>
 </tr>
@@ -245,12 +245,12 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minato95-ayu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff90&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minato95-ayu&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff90&ring=7c3aed&fire=00d4ff&currStreakLabel=00ff90&sideLabels=c9d1d9&dates=6b7280" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Minato95-ayu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0800&title_color=e8a000&icon_color=ff6b00&text_color=c9b090&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minato95-ayu&theme=tokyonight&hide_border=true&background=0d0800&stroke=e8a000&ring=ff6b00&fire=cc2200&currStreakLabel=e8a000&sideLabels=c9b090&dates=6b5a3a" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minato95-ayu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff90&text_color=c9d1d9&langs_count=6" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minato95-ayu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0800&title_color=e8a000&text_color=c9b090&langs_count=6" width="40%" />
 </div>
 
 ---
@@ -286,7 +286,7 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 > *I'm a student, but I build like a founder.*  
 > *I don't wait for the perfect moment — I need 72 more hours and a problem worth solving."*
 
-**— Ayush Kausik, still building**
+**— Ayush Kausik, still building at 2AM**
 
 </div>
 
@@ -296,9 +296,9 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Minato95--ayu-0d1117?style=for-the-badge&logo=github&logoColor=00ff90)](https://github.com/Minato95-ayu)
-[![Twitter](https://img.shields.io/badge/Twitter-@o__Ayush__kaushik-0d1117?style=for-the-badge&logo=x&logoColor=00d4ff)](https://x.com/o_Ayush_kaushik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kaushiq-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/ayushh-kaushiq-1a950825a)
+[![GitHub](https://img.shields.io/badge/GitHub-Minato95--ayu-0d0800?style=for-the-badge&logo=github&logoColor=e8a000)](https://github.com/Minato95-ayu)
+[![Twitter](https://img.shields.io/badge/Twitter-@o__Ayush__kaushik-0d0800?style=for-the-badge&logo=x&logoColor=aabbff)](https://x.com/o_Ayush_kaushik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kaushiq-0d0800?style=for-the-badge&logo=linkedin&logoColor=a088ff)](https://www.linkedin.com/in/ayushh-kaushiq-1a950825a)
 
 </div>
 
@@ -314,5 +314,5 @@ Top 1% is not a dream. It's a scheduled delivery.
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff90,50:7c3aed,100:00d4ff&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a000,50:ff6b00,100:cc2200&height=120&section=footer&reversal=true" width="100%"/>
 </div>
