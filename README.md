@@ -1,4 +1,3 @@
-<img width="960" height="1280" alt="photo jpg" src="https://github.com/user-attachments/assets/1655f133-8d02-4201-ae61-662d41023944" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff90,50:7c3aed,100:00d4ff&height=300&section=header&text=Ayush%20Kausik&fontSize=85&fontAlignY=38&fontColor=ffffff&desc=Builder%20%7C%20AI%20Engineer%20%7C%20Tier-3%20→%20Top%201%25&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
@@ -37,7 +36,7 @@ I've studied documentation from **Google, Microsoft, Oracle, Meta, and Terraform
 
 I've rebuilt projects from zero — multiple times. I once ran **72 hours non-stop** because the problem refused to let me sleep. 12-hour deep work sessions are just a regular Tuesday.
 
-My inspiration? **Elon Musk.**
+My inspiration? **Elon Musk.**  
 My goal? **Top 1%.**
 
 Not today. But **one day** — and every commit is one step closer.
@@ -282,9 +281,9 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 
 <div align="center">
 
-> *"I've failed more times than most people have tried.*
-> *Every rebuild made it stronger. Every failure made me sharper.*
-> *I'm a student, but I build like a founder.*
+> *"I've failed more times than most people have tried.*  
+> *Every rebuild made it stronger. Every failure made me sharper.*  
+> *I'm a student, but I build like a founder.*  
 > *I don't wait for the perfect moment — I need 72 more hours and a problem worth solving."*
 
 **— Ayush Kausik, still building**
@@ -298,8 +297,8 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Minato95--ayu-0d1117?style=for-the-badge&logo=github&logoColor=00ff90)](https://github.com/Minato95-ayu)
-[![Twitter](https://img.shields.io/badge/Twitter-@your__handle-0d1117?style=for-the-badge&logo=twitter&logoColor=00d4ff)](https://twitter.com/https://x.com/o_Ayush_kaushik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/your_handle)
+[![Twitter](https://img.shields.io/badge/Twitter-@o__Ayush__kaushik-0d1117?style=for-the-badge&logo=x&logoColor=00d4ff)](https://x.com/o_Ayush_kaushik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kaushiq-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/ayushh-kaushiq-1a950825a)
 
 </div>
 
