@@ -119,7 +119,7 @@ mission : Top 1%
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/Minato95-ayu/news-in-sec">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minato95-ayu&repo=news-in-sec&theme=tokyonight&hide_border=true&bg_color=0d0800&title_color=e8a000&icon_color=ff6b00&text_color=c9b090" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minato95-ayu&repo=news-in-sec&theme=tokyonight&hide_border=true&title_color=e8a000&icon_color=ff6b00&text_color=c9b090" />
       </a>
     </td>
   </tr>
