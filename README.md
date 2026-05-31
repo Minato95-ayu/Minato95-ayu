@@ -298,7 +298,7 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Minato95--ayu-0d1117?style=for-the-badge&logo=github&logoColor=00ff90)](https://github.com/Minato95-ayu)
-[![Twitter](https://img.shields.io/badge/Twitter-@your__handle-0d1117?style=for-the-badge&logo=twitter&logoColor=00d4ff)](https://twitter.com/your_handle)
+[![Twitter](https://img.shields.io/badge/Twitter-@your__handle-0d1117?style=for-the-badge&logo=twitter&logoColor=00d4ff)](https://twitter.com/https://x.com/o_Ayush_kaushik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/your_handle)
 
 </div>
