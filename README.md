@@ -118,9 +118,14 @@ mission : Top 1%
       <p>⚡ Zero employees. Fully autonomous content at scale.</p>
     </td>
    <td width="35%" align="center">
+      <br/>
       <a href="https://github.com/Minato95-ayu/news-in-sec">
-        <img src="https://gh-card.dev/repos/Minato95-ayu/news-in-sec.svg?fullname=" />
+        <img src="https://img.shields.io/badge/VIEW%20REPO-news--in--sec-e8a000?style=for-the-badge&logo=github&logoColor=000000" />
       </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/Minato95-ayu/news-in-sec?style=for-the-badge&color=ff6b00&labelColor=0d0800&logo=github&logoColor=e8a000" />
+      <br/><br/>
+      <img src="https://img.shields.io/github/last-commit/Minato95-ayu/news-in-sec?style=for-the-badge&color=cc2200&labelColor=0d0800&logoColor=e8a000" />
     </td>
   </tr>
 </table>
