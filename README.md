@@ -251,16 +251,13 @@ Production-ready mobile app. Clean Dart architecture. Learning reimagined.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://readme-stats-one-indol.vercel.app/api?username=Minato95-ayu&show_icons=true&theme=tokyonight&hide_border=true&title_color=e8a000&icon_color=ff6b00&text_color=c9b090&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-five-pi-76.vercel.app/api?username=Minato95-ayu&show_icons=true&theme=tokyonight&hide_border=true&title_color=e8a000&icon_color=ff6b00&text_color=c9b090&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://streak-stats.demolab.com?user=Minato95-ayu&theme=tokyonight&hide_border=true&ring=e8a000&fire=ff6b00&currStreakLabel=e8a000" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-stats-one-indol.vercel.app/api/top-langs/?username=Minato95-ayu&layout=compact&theme=tokyonight&hide_border=true&title_color=e8a000&text_color=c9b090&langs_count=6" width="40%" />
+  <img src="https://github-readme-stats-five-pi-76.vercel.app/api/top-langs/?username=Minato95-ayu&layout=compact&theme=tokyonight&hide_border=true&title_color=e8a000&text_color=c9b090&langs_count=6" width="40%" />
 </div>
-## 🛸 Secret Project
-
-<div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────┐
