@@ -117,9 +117,9 @@ mission : Top 1%
       <p><code>Next.js 15</code> &nbsp;·&nbsp; <code>Gemini 2.5 Flash</code> &nbsp;·&nbsp; <code>TailwindCSS</code> &nbsp;·&nbsp; <code>TypeScript</code></p>
       <p>⚡ Zero employees. Fully autonomous content at scale.</p>
     </td>
-    <td width="35%" align="center">
+   <td width="35%" align="center">
       <a href="https://github.com/Minato95-ayu/news-in-sec">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Minato95-ayu&repo=news-in-sec&theme=tokyonight&hide_border=true&title_color=e8a000&icon_color=ff6b00&text_color=c9b090" />
+        <img src="https://gh-card.dev/repos/Minato95-ayu/news-in-sec.svg?fullname=" />
       </a>
     </td>
   </tr>
