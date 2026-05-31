@@ -1,3 +1,4 @@
+<img width="915" height="1280" alt="WhatsApp Image 2026-05-31 at 2 33 02 AM" src="https://github.com/user-attachments/assets/9b6ad642-d400-418f-92ab-f8c840ad69b9" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a000,50:ff6b00,100:cc2200&height=300&section=header&text=Ayush%20Kausik&fontSize=85&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Tier-3%20→%20Top%201%25&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
