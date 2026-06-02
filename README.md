@@ -20,9 +20,9 @@
 </div>
 
 ---
-<audio src="./my-song.mp3" controls loop>
+<audio src="https://raw.githubusercontent.com/Minato95-ayu/Minato95-ayu/main/my-song.mp3" controls loop>
   Your browser does not support the audio element.
-</audio>[my-song.mp3](https://github.com/user-attachments/files/28518818/my-song.mp3)
+</audio>
 
 
 ## 👤 The Person Behind The Code
