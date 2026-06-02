@@ -20,7 +20,10 @@
 </div>
 
 ---
-[![Listen to My Profile Song](https://img.shields.io/badge/🎵%20Listen%20To%20My%20Profile%20Song-Click%20To%20Play-FF69B4?style=for-the-badge&logo=music)](https://media.githubusercontent.com/media/Minato95-ayu/Minato95-ayu/main/my-song.mp3)
+<p align="center">
+  <iframe src="https://your-vercel-project.vercel.app/my-song.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
+  <audio src="https://your-vercel-project.vercel.app/my-song.mp3" controls loop></audio>
+</p>
 
 ## 👤 The Person Behind The Code
 
