@@ -20,9 +20,7 @@
 </div>
 
 ---
-<audio src="https://media.githubusercontent.com/media/Minato95-ayu/Minato95-ayu/main/my-song.mp3" controls loop>
-  Your browser does not support the audio element.
-</audio>
+[![Listen to My Profile Song](https://img.shields.io/badge/🎵%20Listen%20To%20My%20Profile%20Song-Click%20To%20Play-FF69B4?style=for-the-badge&logo=music)](https://media.githubusercontent.com/media/Minato95-ayu/Minato95-ayu/main/my-song.mp3)
 
 ## 👤 The Person Behind The Code
 
