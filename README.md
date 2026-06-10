@@ -1,7 +1,7 @@
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2090da80-ab9f-40e5-bd9b-6b3da635d4de" />
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0000,100:8b0000&height=300&section=header&text=AYUSH%20KAUSHIK&fontSize=78&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%7C%20AILM%20Dev%20%7C%20Data%20Scientist%20%7C%20Founder%20%7C%20Tier-3%20%E2%86%92%20World%20Top%201%25&descAlignY=58&descSize=15&descAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0000,100:8b0000&height=300&section=header&text=AYUSH%20KAUSHIK&fontSize=78&fontAlignY=38&fontColor=ffffff&desc=AI%20Researcher%20%7C%20AILM%20Dev%20%7C%20Data%20Scientist%20%7C%20Founder%20%7C%%20learner%20%7C%20Tier-3%20%E2%86%92%20World%20Top%201%25&descAlignY=58&descSize=15&descAlign=50&animation=fadeIn)
 
 </div>
 
