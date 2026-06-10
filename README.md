@@ -75,7 +75,8 @@ roles:
   - Full Stack Engineer
   - Cybersecurity Learner
   - Philosopher & Builder
-
+learning  : Fastest weapon I have.
+            Not talent — just refuse to stop until it clicks.
 mindset   : Elon Musk energy —
             fail → rebuild → ship
             universe-scale thinking
@@ -128,6 +129,7 @@ status    : [IN PROGRESS ████████░░]
 | 🎯 Destination | **Top 1%** | Not today. But one day — and every commit is one step closer. |
 | 🏢 Dream Companies | **Google · Meta · Terraform · Oracle** | Not chasing. Getting so good they come to me. |
 | 🚀 Real Goal | **My own tech giant** | One that gives builders the environment, mentorship & ideology they deserve. |
+| 📚 Learning Speed | **Abnormally fast** | Give me any concept — I will master it. That's not confidence, that's a pattern I've seen in myself. |
 ---
 
 ## `> ls -la /skills --all`
