@@ -228,13 +228,13 @@ llama.cpp local inference. Full AI IDE offline.
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Adumate](https://adumate.in) `● LIVE`
-> Student Services Platform — Founder
+### 🧠 [INTENT-TO-SILICON](https://github.com/Minato95-ayu/INTENT-TO-SILICON) `● RESEARCH`
+> Human Language to Architecture Compiler — Independent Researcher
 
-Map-based discovery · Multi-AI API rotation  
-Groq · Gemini · Mistral · DeepSeek · Cloudflare AI
+Semantic Dictionary · Active Disambiguation Engine  
+Emotion-to-Silicon Mapping · YAML Blueprint Generation
 
-`Next.js` `Firebase` `Leaflet.js` `Multi-AI`
+`Python` `NLP` `HCI Psychology` `YAML Architecture`
 
 </td>
 </tr>
