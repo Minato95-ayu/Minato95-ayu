@@ -21,7 +21,7 @@
 [![followers](https://img.shields.io/github/followers/Minato95-ayu?style=for-the-badge&color=8b0000&labelColor=000000&label=FOLLOWERS)](https://github.com/Minato95-ayu)
 
 &nbsp;
-[![trophy](https://github-profile-trophy.vercel.app/?username=Minato95-ayu&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minato95-ayu&theme=react-dark&hide_border=true&color=cc0000&line=cc0000&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
