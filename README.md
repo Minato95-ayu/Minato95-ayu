@@ -25,6 +25,16 @@
 
 </div>
 
+<div align="center">
+  <br>
+  <h2>🏆 LEGENDARY ACHIEVEMENTS</h2>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="90px" alt="Mars 2020" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90px" alt="Arctic Code Vault" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="90px" alt="Starstruck Gold" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="90px" alt="Pair Extraordinaire Gold" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="90px" alt="Pull Shark Gold" />
+</div>
+
 ---
 
 <table>
