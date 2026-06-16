@@ -139,7 +139,7 @@ status    : [IN PROGRESS ████████░░]
 ## `> ls -la /skills --all`
 
 <div align="center">
-  <img height="48" alt="Aayu Logo" src="https://raw.githubusercontent.com/Minato95-ayu/Minato95-ayu/main/logo.jpg" />
+  <img height="48" alt="Aayu Logo" src="https://raw.githubusercontent.com/Minato95-ayu/Minato95-ayu/main/logo.png" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,rust,typescript,js,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,gcp,vercel,git,github,vscode,jupyter,tailwind&perline=10" />
   </a>
