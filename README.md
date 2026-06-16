@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="250" alt="Aayu Logo" src="https://raw.githubusercontent.com/Minato95-ayu/Minato95-ayu/main/logo.png" />
-</div>
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2090da80-ab9f-40e5-bd9b-6b3da635d4de" />
 <div align="center">
@@ -142,8 +139,9 @@ status    : [IN PROGRESS ████████░░]
 ## `> ls -la /skills --all`
 
 <div align="center">
+  <img height="48" alt="Aayu Logo" src="https://raw.githubusercontent.com/Minato95-ayu/Minato95-ayu/main/logo.png" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,typescript,js,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,gcp,vercel,git,github,vscode,jupyter,tailwind&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,rust,typescript,js,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,gcp,vercel,git,github,vscode,jupyter,tailwind&perline=10" />
   </a>
 </div>
 
