@@ -301,6 +301,20 @@ Agentic pipelines. Just pushed.
 
 ---
 
+## `> ls -la /featured_repos`
+
+<div align="center">
+
+[![AAYU](https://github-readme-stats-five-pi-76.vercel.app/api/pin/?username=Minato95-ayu&repo=AAYU&theme=dark&hide_border=true&title_color=cc0000&icon_color=cc0000&text_color=888888&bg_color=000000)](https://github.com/Minato95-ayu/AAYU)
+[![DSA Solutions](https://github-readme-stats-five-pi-76.vercel.app/api/pin/?username=Minato95-ayu&repo=DSA-LeetCode-2000-Solutions&theme=dark&hide_border=true&title_color=cc0000&icon_color=cc0000&text_color=888888&bg_color=000000)](https://github.com/Minato95-ayu/DSA-LeetCode-2000-Solutions)
+
+[![Machine Learning](https://github-readme-stats-five-pi-76.vercel.app/api/pin/?username=Minato95-ayu&repo=Machine-Learning-Data-Science&theme=dark&hide_border=true&title_color=cc0000&icon_color=cc0000&text_color=888888&bg_color=000000)](https://github.com/Minato95-ayu/Machine-Learning-Data-Science)
+[![Data Analysis](https://github-readme-stats-five-pi-76.vercel.app/api/pin/?username=Minato95-ayu&repo=Advanced-Data-Analysis&theme=dark&hide_border=true&title_color=cc0000&icon_color=cc0000&text_color=888888&bg_color=000000)](https://github.com/Minato95-ayu/Advanced-Data-Analysis)
+
+</div>
+
+---
+
 ## `> cat /timeline/journey.log`
 
 ```
