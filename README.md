@@ -157,7 +157,15 @@ status    : [IN PROGRESS ████████░░]
 
 <br>
 
-### 🧠 AI Research · AILM · LLM Engineering
+### 🧠 AAYU Ecosystem
+![AAYU Language](https://img.shields.io/badge/AAYU_Language-000000?style=for-the-badge&logoColor=cc0000)
+![AAYU Compiler](https://img.shields.io/badge/AAYU_Compiler-000000?style=for-the-badge&logoColor=cc0000)
+![Intent Engine](https://img.shields.io/badge/Intent_Engine-000000?style=for-the-badge&logoColor=cc0000)
+![Architecture Engine](https://img.shields.io/badge/Architecture_Engine-000000?style=for-the-badge&logoColor=cc0000)
+![Runtime](https://img.shields.io/badge/Runtime-000000?style=for-the-badge&logoColor=cc0000)
+![Application Generator](https://img.shields.io/badge/Application_Generator-000000?style=for-the-badge&logoColor=cc0000)
+
+### 🤖 AI Research · AILM · LLM Engineering
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-000000?style=for-the-badge&logo=google&logoColor=cc0000)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=cc0000)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=meta&logoColor=cc0000)
