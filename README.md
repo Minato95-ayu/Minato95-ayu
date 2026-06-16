@@ -137,6 +137,14 @@ status    : [IN PROGRESS ████████░░]
 
 ## `> ls -la /skills --all`
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,typescript,js,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,gcp,vercel,git,github,vscode,jupyter,tailwind&perline=11" />
+  </a>
+</div>
+
+<br>
+
 ### 🧠 AI Research · AILM · LLM Engineering
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-000000?style=for-the-badge&logo=google&logoColor=cc0000)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=cc0000)
