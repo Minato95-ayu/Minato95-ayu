@@ -141,7 +141,15 @@ status    : [IN PROGRESS ████████░░]
 <div align="center">
   <img height="48" alt="Aayu Logo" src="https://raw.githubusercontent.com/Minato95-ayu/Minato95-ayu/main/logo.png" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,typescript,js,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,kubernetes,linux,gcp,vercel,git,github,vscode,jupyter,tailwind&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,rust,typescript,js,react,nextjs,nodejs,fastapi,postgres" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,kubernetes,linux,gcp,vercel,git,github,vscode" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jupyter,tailwind" />
   </a>
 </div>
 
