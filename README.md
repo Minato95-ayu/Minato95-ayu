@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="250" alt="Aayu Logo" src="./logo.png" />
+</div>
+
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2090da80-ab9f-40e5-bd9b-6b3da635d4de" />
 <div align="center">
 
